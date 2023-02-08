@@ -31,14 +31,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- É um projeto de responsividade, que faz com que o nosso site se adapte em diversas resoluções de tela.
+ É um desafio da Rocketseat para os alunos do curso Explorer.
 
-- [Acesse o projeto finalizado, online](https://marcossantos1990.github.io/responsividade/)
+- [Acesse o projeto finalizado, online](https://marcossantos1990.github.io/Mentoria//)
 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/yqm7kue9HRA7QxsXya6QsC/Explorer-Stage-03-Projeto-02-(Copy)?node-id=203%3A412&t=rqGQK19DE1Yhf7Oc-0).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/yWa9yTruqWLwD0gSXI6sOR/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?node-id=0%3A1&t=Gr9AKcmHXqSefrqM-0).
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
